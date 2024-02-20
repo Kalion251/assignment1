@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Leanne Graham",
+      "username": "Bret",
+      "email": "Sincere@april.biz"
+    },
+    {
+      "id": 2,
+      "name": "Leanne Graham A",
+      "username": "Breta",
+      "email": "Sincerea@april.biz"
+    },
+    {
+      "id": 5,
+      "name": "Leanne Graham B",
+      "username": "Bret B",
+      "email": "SincereB@april.biz"
+    },
+    {
+      "id": 3,
+      "name": "Leanne Graham C",
+      "username": "Bret C",
+      "email": "SincereC@april.biz"
+    },
+    {
+      "id": 4,
+      "name": "Leanne Graham D",
+      "username": "Bret D",
+      "email": "SincereD@april.biz"
+    }
+  ]
+}
